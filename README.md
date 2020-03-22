@@ -1,10 +1,8 @@
-## Welcome to GitHub Pages
+# Простой блог (учебный проект)
 
-You can use the [editor on GitHub](https://github.com/iwizy/learn-blog-site/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Это учебный проект, а значит код не будет идеальным, но он будет работать так, как задумано. Проект можно использовать для своего обучения или для любых других целей. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+## Возможности
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
