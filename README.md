@@ -18,4 +18,4 @@
 
 ## Связь со мной
 
-Вопросы можно вз [Issues](https://github.com/iwizy/learn-blog-site/issues).
+Вопросы можно задать в [Issues](https://github.com/iwizy/learn-blog-site/issues).
