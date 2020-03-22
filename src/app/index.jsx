@@ -47,7 +47,6 @@ class App extends Component {
 
 const mapStateToProps = (state) => {
   return ({
-    counter: state.applicationReducer.counter,
     user: state.applicationReducer.user
   });
 };
