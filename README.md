@@ -11,12 +11,11 @@
 - Лайки и дизлайки
 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+## Ограничения
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/iwizy/learn-blog-site/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Для организации бэка я взял одно из готовых учебных решений и не стал делать что-то свое. То есть серверная часть идет AS-IS и по ней у меня не будет комментариев на текущий момент.
 
-### Support or Contact
+## Связь со мной
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Вопросы можно вз [Issues](https://github.com/iwizy/learn-blog-site/issues).
